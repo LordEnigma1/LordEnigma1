@@ -1,7 +1,7 @@
 ## Hello! I'm Angel M.
 **🎮 My Skills & Interests**
 
-Programming Languages: C, C++, SQL, (learning new languages!)
+Programming Languages: C, C++, SQL, Python (learning new languages!)
 
 Game Development: Godot Engine, game design principles, optimization
 
