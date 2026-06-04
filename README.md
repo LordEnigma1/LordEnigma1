@@ -1,7 +1,7 @@
 ## Hello! I'm Angel M.
-**🎮 My Skills & Interests**
+**My Skills & Interests**
 
-Programming Languages: C, C++, SQL, Python (learning new languages!)
+Programming Languages: C, C++, SQL, Python (learning new languages)
 
 Game Development: Godot Engine, game design principles, optimization
 
@@ -13,7 +13,7 @@ Networking: Interested in low-level network programming and distributed systems
 
 Low-Level Programming: Deep dive into assembly, memory management, and operating systems
 
-**🚀 What I'm Currently Working On**
+** What I'm Currently Working On**
 
 Mastering low-level programming and system architecture
 
@@ -23,7 +23,7 @@ Learning advanced concepts in networking and distributed systems
 
 Building real-time multiplayer games with Godot and network code optimization
 
-**📚 Learning   Goals**
+** Learning   Goals**
 
 Explore more programming languages and paradigms
 
